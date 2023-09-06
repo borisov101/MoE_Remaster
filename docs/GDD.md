@@ -22,7 +22,7 @@ Master of Elements
 Предусматривается интеграция забавных русских мемов.
 
 #### Look and Feel | Art Style & Reference
-Как игра должна выглядеть и ощущаться? Каков ее визуальный стиль?
+Игра должна выглядеть казуально просто и привлекательно, основной упор в миханике должен быть на простое управление всесте с понятными и интересными механиками.
 
 #### Цель игры
 Необходимо одолеть главного антагониста для завершения игры.
@@ -41,8 +41,7 @@ Android, iOS, Windows, Linux
 Вторичная целевая аудитория - игроки Steam.
 
 ### Game Flow / Gameplay Summary / Core Gameplay Mechanics (Brief) | Геймплей вкратце
-How does the player move through the game. Both through framing
-interface and the game itself.
+How does the player move through the game. Both through framing interface and the game itself.
 
 ### Project Scope | Масштаб проекта (предполагаемый)
 A summary of the scope of the game.
