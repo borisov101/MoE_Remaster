@@ -44,11 +44,19 @@ Android, iOS, Windows, Linux
 How does the player move through the game. Both through framing interface and the game itself.
 
 ### Project Scope | Масштаб проекта (предполагаемый)
-A summary of the scope of the game.
-Number of locations, levels, NPCs, weapons, etc.
-
+Предположительно в игре должно быть:
+1)суммарно 25 комнат 
+(4 рандомно генерируемые комнаты в стиле леса) - (1 Босс леший)
+\/
+(4 рандомно генерируемые комнаты в стиле снега) - (1 Босс снежная королева)
+\/
+(4 рандомно генерируемые комнаты в стиле огненых недр ) - (1 Босс Сварог)
+\/
+(4 рандомно генерируемые комнаты в стиле затопленного города ) - (1 Босс Водяной) 
+\/
+(4 рандомно генерируемые комнаты в стиле мрачного города ) - (1 Босс Кощей) 
 ### Game Modes
-Story/Sandbox/Editor/Multiplayer
+Rogue-lite(Story)
 
 ### Цели проекта
 Какие цели мы преследуем, разрабатывая данную игру?
